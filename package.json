@@ -1,0 +1,22 @@
+{
+  "name": "error-retry",
+  "version": "0.0.1",
+  "description": "Error retries for async functions or functions that return a promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitquant/error-retry.git"
+  },
+  "keywords": [
+    "retry"
+  ],
+  "author": "bitquant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitquant/error-retry/issues"
+  },
+  "homepage": "https://github.com/bitquant/error-retry#readme"
+}
