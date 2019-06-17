@@ -1,6 +1,6 @@
 {
   "name": "error-retry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Error retries for async functions or functions that return a promise",
   "main": "index.js",
   "scripts": {
